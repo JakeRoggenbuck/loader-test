@@ -1,0 +1,3 @@
+[submodule "hyper-minimal-loaders"]
+	path = hyper-minimal-loaders
+	url = https://github.com/JakeRoggenbuck/hyper-minimal-loaders.git
